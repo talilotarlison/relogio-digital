@@ -1,0 +1,35 @@
+h1{
+    font-family: 'Mina', sans-serif;
+    color: aliceblue;
+    font-size: 78px;
+    text-align: center;
+    padding-top: 30px;
+}
+h2{
+    font-family: 'Mina', sans-serif;
+    font-size: 48px;
+    text-align: center;
+}
+
+.clock{
+  
+    border: solid black 10px;
+    width: 500px;
+    height: 350px;
+    padding: 0px 20px 20px 20px;
+    border-radius: 25px;
+}
+
+.display-clock{
+    background-color: black;
+    border-radius: 5px;
+    width: 500px;
+    height: 200px;
+}
+
+.foot{
+   margin: 10% auto;
+   border-bottom: 15px black solid; 
+   width: 555px;
+   padding: 10px;
+}
